@@ -8,6 +8,8 @@
 dailyindiegame.com##div.google-auto-placed
 dcard.tw##div.__portal>div:nth-child(2)
 dealfuel.com##div.cky-consent-container:has(div.cky-notice)
+diffchecker.com##div[class*=ad-box_container]
+diffchecker.com##div[class*=diff-checker_ads]
 dorama.info##ins.adsbygoogle
 facebook.com##div[data-nosnippet]
 fanatical.com##div.small-usp-bar
